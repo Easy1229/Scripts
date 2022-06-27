@@ -1,0 +1,7 @@
+F:\C#\C#进阶\Test\订单\bin\Debug\订单.exe
+F:\C#\C#进阶\Test\订单\bin\Debug\订单.pdb
+F:\C#\C#进阶\Test\订单\obj\Debug\订单.csproj.AssemblyReference.cache
+F:\C#\C#进阶\Test\订单\obj\Debug\订单.csproj.SuggestedBindingRedirects.cache
+F:\C#\C#进阶\Test\订单\obj\Debug\订单.csproj.CoreCompileInputs.cache
+F:\C#\C#进阶\Test\订单\obj\Debug\订单.exe
+F:\C#\C#进阶\Test\订单\obj\Debug\订单.pdb

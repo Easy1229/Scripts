@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "继承", "继承.csproj", "{093C2A89-8491-41C6-A17C-399415FA476E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "订单", "订单\订单.csproj", "{68532520-F1BC-4075-8CB1-252AEE8F998D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{093C2A89-8491-41C6-A17C-399415FA476E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093C2A89-8491-41C6-A17C-399415FA476E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093C2A89-8491-41C6-A17C-399415FA476E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093C2A89-8491-41C6-A17C-399415FA476E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68532520-F1BC-4075-8CB1-252AEE8F998D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68532520-F1BC-4075-8CB1-252AEE8F998D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68532520-F1BC-4075-8CB1-252AEE8F998D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68532520-F1BC-4075-8CB1-252AEE8F998D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

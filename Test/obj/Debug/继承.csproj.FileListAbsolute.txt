@@ -1,0 +1,7 @@
+F:\C#\C#进阶\Test\bin\Debug\继承.exe
+F:\C#\C#进阶\Test\bin\Debug\继承.pdb
+F:\C#\C#进阶\Test\obj\Debug\继承.csproj.AssemblyReference.cache
+F:\C#\C#进阶\Test\obj\Debug\继承.csproj.SuggestedBindingRedirects.cache
+F:\C#\C#进阶\Test\obj\Debug\继承.csproj.CoreCompileInputs.cache
+F:\C#\C#进阶\Test\obj\Debug\继承.exe
+F:\C#\C#进阶\Test\obj\Debug\继承.pdb
