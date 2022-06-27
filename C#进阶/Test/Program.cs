@@ -1,31 +1,39 @@
 ﻿using System;
+using System.Runtime.InteropServices;
 
 namespace 继承
 {
-    class Student
-    {
-        public string name;
-        public int age;
-        public Gender gender;
-
-        public Student(string name, int age, Gender gender)
-        {
-            name = this.name;
-            age = this.age;
-            gender = this.gender;
-        }
-    }
-
     enum Gender
     {
         Male,
         Female,
     }
+    class Student
+    {
+        public virtual void Say()
+        {
+            Console.WriteLine("123");
+        }
+       
+    }
+
+    class Test:Student
+    {
+        public override void Say()
+        {
+            Console.WriteLine("456");
+        }
+    }
+    
     class Program
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine();
+            Student student = new Student();
+            Test test = new Test();
+            student.Say();
+            test.Say();
+            
         }
     }
 }
