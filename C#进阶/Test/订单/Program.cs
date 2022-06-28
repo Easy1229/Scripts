@@ -31,7 +31,7 @@ namespace 订单
             orders.Add(o);
         }
 
-        public virtual float GetTotalPrice()
+        public  float GetTotalPrice()
         {
             float sum = 0;
             foreach (var o in orders)

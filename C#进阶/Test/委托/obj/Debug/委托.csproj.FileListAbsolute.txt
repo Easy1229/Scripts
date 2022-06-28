@@ -1,0 +1,7 @@
+F:\C#\C#进阶\Test\委托\bin\Debug\委托.exe
+F:\C#\C#进阶\Test\委托\bin\Debug\委托.pdb
+F:\C#\C#进阶\Test\委托\obj\Debug\委托.csproj.AssemblyReference.cache
+F:\C#\C#进阶\Test\委托\obj\Debug\委托.csproj.SuggestedBindingRedirects.cache
+F:\C#\C#进阶\Test\委托\obj\Debug\委托.csproj.CoreCompileInputs.cache
+F:\C#\C#进阶\Test\委托\obj\Debug\委托.exe
+F:\C#\C#进阶\Test\委托\obj\Debug\委托.pdb

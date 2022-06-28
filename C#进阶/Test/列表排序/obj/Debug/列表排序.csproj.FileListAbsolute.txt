@@ -1,0 +1,7 @@
+F:\C#\C#进阶\Test\列表排序\bin\Debug\列表排序.exe
+F:\C#\C#进阶\Test\列表排序\bin\Debug\列表排序.pdb
+F:\C#\C#进阶\Test\列表排序\obj\Debug\列表排序.csproj.AssemblyReference.cache
+F:\C#\C#进阶\Test\列表排序\obj\Debug\列表排序.csproj.SuggestedBindingRedirects.cache
+F:\C#\C#进阶\Test\列表排序\obj\Debug\列表排序.csproj.CoreCompileInputs.cache
+F:\C#\C#进阶\Test\列表排序\obj\Debug\列表排序.exe
+F:\C#\C#进阶\Test\列表排序\obj\Debug\列表排序.pdb

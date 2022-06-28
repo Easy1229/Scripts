@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "继承", "继承.csproj", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "订单", "订单\订单.csproj", "{68532520-F1BC-4075-8CB1-252AEE8F998D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "委托", "委托\委托.csproj", "{4CA5421B-22B7-4758-AAF7-B38F65C7062F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "列表排序", "列表排序\列表排序.csproj", "{D91B11A1-CC47-46D7-B8C4-5DA0498C4383}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{68532520-F1BC-4075-8CB1-252AEE8F998D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68532520-F1BC-4075-8CB1-252AEE8F998D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68532520-F1BC-4075-8CB1-252AEE8F998D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CA5421B-22B7-4758-AAF7-B38F65C7062F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA5421B-22B7-4758-AAF7-B38F65C7062F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA5421B-22B7-4758-AAF7-B38F65C7062F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA5421B-22B7-4758-AAF7-B38F65C7062F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D91B11A1-CC47-46D7-B8C4-5DA0498C4383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91B11A1-CC47-46D7-B8C4-5DA0498C4383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91B11A1-CC47-46D7-B8C4-5DA0498C4383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91B11A1-CC47-46D7-B8C4-5DA0498C4383}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
